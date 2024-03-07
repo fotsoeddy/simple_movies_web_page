@@ -35,6 +35,16 @@ h3{
     font-size: 3.2rem;
     text-transform: uppercase;
 }
+#query{
+    color: white;
+    background-color: #879ac7;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-size: 1.5rem;
+}
+#query::placeholder{
+    font-size: 0.2rem;
+}
 
 form{
     background-color: #151f30;
