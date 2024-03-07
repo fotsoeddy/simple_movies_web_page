@@ -25,12 +25,14 @@ h3{
     flex-wrap: wrap;
 }
 .topnav a{
+    margin-left: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   
     color: white;
     text-align: center;
     padding :5px  8px;
     text-decoration: none;
-    font-size: 1.2rem;
+    font-size: 3.2rem;
     text-transform: uppercase;
 }
 
